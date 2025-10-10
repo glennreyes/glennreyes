@@ -32,16 +32,12 @@ const stack = {
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennreyes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
-## 🎯 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
 ## 🌐 Connect
 
-- 🌍 [glennreyes.com](https://glennreyes.com)
-- 🐦 [@glnnrys](https://x.com/glnnrys)
-- 💼 [LinkedIn](https://linkedin.com/in/glennreyes)
+ - 🌍 [glennreyes.com](https://glennreyes.com)
+ - 💼 [LinkedIn](https://linkedin.com/in/glennreyes)
+ - 🐦 [@glnnrys](https://x.com/glnnrys)
+ - 🦋 [BlueSky](https://bsky.app/profile/glennreyes.com)
 
 ## 🏃‍♂️ When I'm Not Coding
 
@@ -49,4 +45,4 @@ const stack = {
 
 ---
 
-💡 Open to speaking opportunities and collaboration on interesting projects
+💡 Open to speaking opportunities and collaboration on interesting projects. Feel free to [contact me](mailto:glenn@glennreyes.com).
