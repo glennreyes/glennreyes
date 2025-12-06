@@ -22,7 +22,7 @@ const stack = {
   frontend: ['React', 'Next.js', 'Tailwind CSS'],
   database: ['Turso', 'Drizzle ORM'],
   tools: ['Vitest', 'Cursor', 'Composer 1', 'Gemini 3', 'GPT Codex', 'Claude Code'],
-  interests: ['Design Systems', 'Developer Experience', 'Web Performance']
+  interests: ['AI', 'Design Systems', 'Developer Experience', 'Web Performance']
 }
 ```
 
