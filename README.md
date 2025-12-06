@@ -21,16 +21,10 @@ const stack = {
   languages: ['TypeScript', 'JavaScript'],
   frontend: ['React', 'Next.js', 'Tailwind CSS'],
   database: ['Turso', 'Drizzle ORM'],
-  tools: ['Vitest', 'Claude Code', 'GPT-5-Codex'],
+  tools: ['Vitest', 'Cursor', 'Composer 1', 'Gemini 3', 'GPT Codex', 'Claude Code'],
   interests: ['Design Systems', 'Developer Experience', 'Web Performance']
 }
 ```
-
-## 📊 GitHub Stats
-
-![Glenn's GitHub stats](https://github-readme-stats.vercel.app/api?username=glennreyes&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=glennreyes&layout=compact&theme=dark&hide_border=true&bg_color=0d1117)
 
 ## 🌐 Connect
 
