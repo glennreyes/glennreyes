@@ -1,42 +1,58 @@
-# Hey, I'm Glenn Reyes 👋
+# Hey, I'm Glenn Reyes
 
-**Software Engineer · Tech Speaker · Workshop Instructor**
-📍 Based in Vienna, Austria
+**Software engineer building Generative UI and MCP apps**  
+Vienna, Austria
 
-I build, learn, and share. I'm passionate about creating design systems that are reliable, flexible, and feel effortless to use.
+I build AI-native frontend systems that turn intent into interface. My work sits at the intersection of Generative UI, MCP apps, frontend architecture, design systems, and developer experience.
+
+I work across product direction, frontend architecture, component systems, and developer experience to make ambitious UI ideas clear, adaptable, and maintainable in production.
 
 <img src="cover.jpg" alt="Glenn Reyes" width="100%" />
 
-## 🚀 What I Do
+## What I'm Focused On
 
-- 🎤 **Speaking**: I share knowledge at conferences and meetups worldwide
-- 👨‍🏫 **Teaching**: Running workshops on React, GraphQL, and TypeScript
-- 💻 **Building**: Crafting modern web experiences with Next.js, React, and TypeScript
-- ✍️ **Writing**: Sharing insights on my [blog](https://glennreyes.com/posts)
+- Building Generative UI and adaptive interfaces for AI-native products
+- Designing MCP apps and conversational product patterns that stay maintainable
+- Leading frontend architecture, design systems, and developer experience
+- Speaking and teaching about React, MCP, Generative UI, and AI-native UX
+- Writing about frontend systems, AI coding agents, and the shift from screens to intent
 
-## 🛠️ Tech Stack
+## Stack
 
 ```typescript
 const stack = {
   languages: ['TypeScript', 'JavaScript'],
-  frontend: ['React', 'Next.js', 'Tailwind CSS'],
-  database: ['Turso', 'Drizzle ORM'],
-  tools: ['Vitest', 'Cursor', 'Composer 1', 'Gemini 3', 'GPT Codex', 'Claude Code'],
-  interests: ['AI', 'Design Systems', 'Developer Experience', 'Web Performance']
+  frontend: ['React', 'Tailwind CSS'],
+  focus: [
+    'Generative UI',
+    'MCP Apps',
+    'Frontend Architecture',
+    'Design Systems',
+    'Developer Experience'
+  ]
 }
 ```
 
-## 🌐 Connect
+## Speaking & Workshops
 
- - 🌍 [glennreyes.com](https://glennreyes.com)
- - 💼 [LinkedIn](https://linkedin.com/in/glennreyes)
- - 🐦 [@glnnrys](https://x.com/glnnrys)
- - 🦋 [BlueSky](https://bsky.app/profile/glennreyes.com)
+I speak at conferences and run workshops on React, MCP, Generative UI, and the frontend systems behind AI-native products.
 
-## 🏃‍♂️ When I'm Not Coding
+<img src="speaking.jpg" alt="Glenn Reyes speaking at a conference" width="100%" />
 
-🤿 Freediving · 🎸 Playing guitar · 🚴 Cycling · 🏊 Swimming · 🏃 Running
+## Connect
+
+- [Website](https://glennreyes.com)
+- [Blog](https://glennreyes.com/posts)
+- [Talks](https://glennreyes.com/talks)
+- [Workshops](https://glennreyes.com/workshops)
+- [LinkedIn](https://linkedin.com/in/glennreyes)
+- [X](https://x.com/glnnrys)
+- [Bluesky](https://bsky.app/profile/glennreyes.com)
+
+## Outside of Work
+
+Guitar, freediving, cycling, swimming, and running.
 
 ---
 
-💡 Open to speaking opportunities and collaboration on interesting projects. Feel free to [contact me](mailto:glenn@glennreyes.com).
+Open to speaking, workshops, and collaborations around Generative UI, MCP, and frontend systems. Reach me at [glenn@glennreyes.com](mailto:glenn@glennreyes.com).
